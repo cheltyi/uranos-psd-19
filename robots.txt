@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cheltyi.github.io/uranos-psd-19/sitemap.xml
